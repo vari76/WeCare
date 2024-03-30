@@ -4,7 +4,7 @@ import 'package:mapd722_group2_project/services/patient_service.dart';
 import 'package:mapd722_group2_project/widgets/error_dialog.dart';
 import 'package:mapd722_group2_project/widgets/loading_overlay.dart';
 import 'package:mapd722_group2_project/widgets/success_dialog.dart';
-
+//add patient model ti add new patient
 class AddNewPatientVM extends ChangeNotifier {
   final DateFormat formatter = DateFormat('yyyy-MM-dd');
   // This is the key for the form widget
