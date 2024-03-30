@@ -8,7 +8,7 @@ import 'package:mapd722_group2_project/widgets/form_label.dart';
 import 'package:mapd722_group2_project/widgets/form_spacer.dart';
 import 'package:mapd722_group2_project/widgets/label_spacer.dart';
 import 'package:provider/provider.dart';
-
+//fix patient data by addding blood pressure values
 class FixPatientView extends StatelessWidget with ValidatorMixin {
   const FixPatientView({
     super.key,
