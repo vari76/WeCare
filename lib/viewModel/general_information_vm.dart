@@ -6,7 +6,7 @@ import 'package:mapd722_group2_project/widgets/loading_overlay.dart';
 import 'package:mapd722_group2_project/widgets/success_dialog.dart';
 
 enum GeneralInformationStates { isLoaded, hasError, isLoading, isEmpty }
-
+//genreal information model
 class GeneralInformationVM extends ChangeNotifier {
   final DateFormat formatter = DateFormat('yyyy-MM-dd');
   // This is the key for the form widget
